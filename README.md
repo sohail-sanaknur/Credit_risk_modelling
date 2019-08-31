@@ -36,12 +36,12 @@ In this technique, we weight the important default cases and tell our program to
 
 R packages used:
 
-readxl
-gmodels
-ggplot2
-ROCR
-pROC
-rpart
-rpart.plot
-rattle
-RColorBrewer
+- readxl
+- gmodels
+- ggplot2
+- ROCR
+- pROC
+- rpart
+- rpart.plot
+- rattle
+- RColorBrewer
